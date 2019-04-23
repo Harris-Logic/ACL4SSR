@@ -7527,6 +7527,7 @@
 (^|\.)microsoft\.com$
 (^|\.)ping\.pe$
 (^|\.)s3\.amazonaws\.com$
+(^|\.)ssr\.tools$
 (^|\.)tumbex\.com$
 (^|\.)tvb\.com$
 (^|\.)twdvd\.com$
