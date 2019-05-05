@@ -1,4 +1,5 @@
-# SSR去广告规则/SS完整GFWList规则
+# 本项目用于个人
+# (以下为原标题)~~SSR去广告规则/SS完整GFWList规则~~
 [![](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
 * 项目基于CC-BY-SA-4.0协议发布
 * 仅推荐未root的安卓手机使用。
